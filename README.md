@@ -2,10 +2,11 @@
 
 This script backs up a Docker volume into a compressed archive.
 
-## Usage
-Make it Executable
+Make the file Executable
 ```bash
 chmod +x backup.sh
+
+## Usage
 
 ```bash
 ./backup.sh
